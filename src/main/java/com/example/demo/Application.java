@@ -11,5 +11,7 @@ public class Application {
 		System.out.println("application start");
 		System.out.println("we are in the spring boot application");
 		System.out.println("we are after after application");
+		System.out.println("we are after after application");
+
 	}
 }
